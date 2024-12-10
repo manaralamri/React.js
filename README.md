@@ -10,13 +10,13 @@
 
 
  ### 🛠️ Connect Section
-     ![img alt](https://github.com/manaralamri/React.js/blob/bc11e8da0ddfa60697d154a89594ad2d07574e3c/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(4).jpeg)
+  ![img alt](https://github.com/manaralamri/React.js/blob/bc11e8da0ddfa60697d154a89594ad2d07574e3c/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(4).jpeg)
 
  ### 🛠️ Newsletter Section
-     ![img alt](https://github.com/manaralamri/React.js/blob/bc11e8da0ddfa60697d154a89594ad2d07574e3c/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(5).jpeg)
+  ![img alt](https://github.com/manaralamri/React.js/blob/bc11e8da0ddfa60697d154a89594ad2d07574e3c/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(5).jpeg)
 
  ### 🛠️ Login & Sign Up  Section
-    ![img alt](https://github.com/manaralamri/React.js/blob/bc11e8da0ddfa60697d154a89594ad2d07574e3c/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(7).jpeg)
+  ![img alt](https://github.com/manaralamri/React.js/blob/bc11e8da0ddfa60697d154a89594ad2d07574e3c/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(7).jpeg)
 
 
 
