@@ -17,6 +17,8 @@
 
  ### 🛠️ Login & Sign Up  Section
   ![img alt](https://github.com/manaralamri/React.js/blob/bc11e8da0ddfa60697d154a89594ad2d07574e3c/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(7).jpeg)
+  ![img alt](https://github.com/manaralamri/React.js/blob/fad4b6734c69216a6948196397c5ccb77e20a6a2/WhatsApp%20Image%202024-12-10%20at%2011.48.33%20AM%20(6).jpeg)
+
 
 
 
