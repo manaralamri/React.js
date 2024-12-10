@@ -71,5 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ![My Project Screenshot](https://github.com/manaralamri/React.js/tree/main/src/assets/img/page1.jpeg)
+![My Project Screenshot](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAAAAAAD...)
+
 
 
